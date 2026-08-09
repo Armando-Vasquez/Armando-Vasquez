@@ -7,14 +7,13 @@
 </p>
 
 <p align="start" style="font-size:5px;">
-  ### 👨‍💻 Sobre mí
-  
+  <h3>👨‍💻 Sobre mí</h3>
   - 🎓 Estudiante de Ingeniería en Sistemas y Computación
   - 💡 Apasionado por la tecnología y el desarrollo web
   - 🔍 Me encanta buscar y crear soluciones a problemas reales
   - 🚀 He desarrollado varios proyectos web como parte de mi formación universitaria
   
-  ### 🌟 Proyectos destacados
+  <h3>🌟 Proyectos destacados</h3>
   
   - **Sistema de Gestión de Asistencia de Estudiantes** — control y seguimiento de asistencia estudiantil
   - **API REST — Sistema de Gestión de Inventario de Farmacia** — backend para administración de inventario farmacéutico
