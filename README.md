@@ -2,7 +2,7 @@
 <p align="center" style="font-size:20px;">
   🚀 Desarrollador Junior
 </p>
-<p align="center" style="font-size:15px;">
+<p align="center" style="font-size:5px;">
   Me apasiona construir sistemas web — desde landing pages simples hasta aplicaciones más completas y robustas.
 </p>
 
