@@ -1,8 +1,9 @@
 <h1 align="center">Hola, Soy Armando Vásquez 🐣</h1>
-
 <p align="center" style="font-size:20px;">
-🚀 Desarrollador Junior
-Me apasiona construir sistemas web — desde landing pages simples hasta aplicaciones más completas y robustas.
+  🚀 Desarrollador Junior
+</p>
+<p align="center" style="font-size:15px;">
+  Me apasiona construir sistemas web — desde landing pages simples hasta aplicaciones más completas y robustas.
 </p>
 
 
