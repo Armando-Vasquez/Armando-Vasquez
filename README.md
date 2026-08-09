@@ -9,9 +9,7 @@
 <p align="start" style="font-size:5px;">
   <h3>👨‍💻 Sobre mí</h3>
   <br>
-  <br>
   - 🎓 Estudiante de Ingeniería en Sistemas y Computación
-  <br>
   <br>
   - 💡 Apasionado por la tecnología y el desarrollo web
   <br>
