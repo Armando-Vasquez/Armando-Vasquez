@@ -40,5 +40,5 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/> 
   </kbd>
   <br>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhvZHFtb3dqdWhjcWUxYXFvZ2RuNXNqYXh1ZXA0OXRuYjNsMGdubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hc31d5RG0gA2SDy7Of/giphy.gif" width="50"/><p align="center">
+  <img src="https://i.gifer.com/D7MJ.gif" width="50"/><p align="center">
 </div>
