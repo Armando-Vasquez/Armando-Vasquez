@@ -6,6 +6,15 @@
   Me apasiona construir sistemas web — desde landing pages simples hasta aplicaciones más completas y robustas.
 </p>
 
+<p align="center" style="font-size:5px;">
+  Soy estudiante de Ingeniería en Sistemas y Computación, apasionado por la tecnología y el desarrollo web. Me encanta buscar y crear soluciones a problemas reales a través del código.
+  <br>
+  He desarrollado varios proyectos web durante mi formación universitaria, entre los que destacan:
+  <br>
+  - 🎓 **Sistema de Gestión de Asistencia de Estudiantes**
+  - 💊 **API REST para Sistema de Gestión de Inventario de Farmacia**
+</p>
+
 <p style="display: inline-block;" align="center">
    <kbd>
     <kbd>Backend</kbd>
