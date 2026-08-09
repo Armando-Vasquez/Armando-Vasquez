@@ -41,5 +41,5 @@
   </kbd>
   <br>
   <br>
-  <img src="https://i.gifer.com/D7MJ.gif" width="50"/><p align="center">
+  <img src="https://i.gifer.com/D7MJ.gif" width="100"/><p align="center">
 </div>
