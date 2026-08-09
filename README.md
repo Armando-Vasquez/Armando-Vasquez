@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 <h1 align="center">Hola, Soy Armando Vásquez 🐣</h1>
 <h3 align="center">🚀 Desarrollador Junior</h3>
 <p align="center" style="font-size:5px;">
@@ -54,13 +52,6 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/> 
-  </kbd>
-    <kbd>
-    <kbd>Versionado</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-    <i width="30px" class="devicon-github-original text-white" />
   </kbd>
   <br>
   <br>
