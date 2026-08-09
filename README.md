@@ -1,7 +1,8 @@
 <h1 align="center">Hola, Soy Armando Vásquez 🐣</h1>
 
 <p align="center" style="font-size:20px;">
-  Desarrollador Full Stack apasionado por el código limpio
+🚀 Desarrollador Junior
+Me apasiona construir sistemas web — desde landing pages simples hasta aplicaciones más completas y robustas.
 </p>
 
 
