@@ -53,6 +53,13 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/> 
   </kbd>
+    <kbd>
+    <kbd>Versionado</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/> 
+  </kbd>
   <br>
   <br>
   <img src="https://raw.githubusercontent.com/Armando-Vasquez/Armando-Vasquez/master/piolin.jpg" width="100"/><p align="center">
