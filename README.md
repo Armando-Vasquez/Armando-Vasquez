@@ -1,4 +1,6 @@
-<h1 align="center">Hola, Soy Armando Vásquez <img src="https://raw.githubusercontent.com/Armando-Vasquez/Armando-Vasquez/master/piolin.jpg" width="100"/><p align="center"></h1>
+<h1 align="center">Hola, Soy Armando Vásquez 
+  <img align="center" src="https://raw.githubusercontent.com/Armando-Vasquez/Armando-Vasquez/master/piolin.jpg" width="100"/>
+</h1>
 <h3 align="center">🚀 Desarrollador Junior</h3>
 <p align="center" style="font-size:5px;">
   Me apasiona construir sistemas web — desde landing pages simples hasta aplicaciones más completas y robustas.
