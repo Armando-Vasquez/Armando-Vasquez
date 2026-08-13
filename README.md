@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Armando Vásquez 
-  <img align="center" src="https://raw.githubusercontent.com/Armando-Vasquez/Armando-Vasquez/master/piolin.jpg" width="100"/>
+  <img align="center" src="https://raw.githubusercontent.com/Armando-Vasquez/Armando-Vasquez/master/PIOLIN.png" width="100"/>
 </h1>
 <h3 align="center">🚀 Desarrollador Junior</h3>
 <p align="center" style="font-size:5px;">
